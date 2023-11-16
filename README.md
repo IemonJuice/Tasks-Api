@@ -1,6 +1,6 @@
 # Awesome Spring Boot API
 
-![Project Logo]([url_to_your_logo.png](https://ru.wikipedia.org/wiki/Spring_Framework#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Spring_Framework_Logo_2018.svg))
+![https://ru.wikipedia.org/wiki/Spring_Framework#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Spring_Framework_Logo_2018.svg]([url_to_your_logo.png](https://ru.wikipedia.org/wiki/Spring_Framework#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Spring_Framework_Logo_2018.svg))
 
 Welcome to the Awesome Spring Boot API project! This repository houses a fantastic RESTful API built with Spring Boot, Java, Lombok, Log4j2, Jackson, and MySQL.
 
