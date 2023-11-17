@@ -26,4 +26,4 @@ Before you start, ensure you have the following installed:
 1. **Clone the Repository:**
    ```bash
    https://github.com/IemonJuice/Tasks-Api.git
-   cd awesome-spring-boot-api
+   cd Tasks-Api
