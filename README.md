@@ -1,4 +1,4 @@
-# Awesome Spring Boot API
+# Spring Boot API
 
 ![https://ru.wikipedia.org/wiki/Spring_Framework#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Spring_Framework_Logo_2018.svg](https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg)
 
@@ -25,5 +25,5 @@ Before you start, ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your_username/awesome-spring-boot-api.git
+   https://github.com/IemonJuice/Tasks-Api.git
    cd awesome-spring-boot-api
